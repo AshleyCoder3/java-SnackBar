@@ -18,8 +18,8 @@ At a high level, you will create snacks, vending machines, and customers. You wi
 ## Instructions and Completion Requirements
 
 - [x] Please fork and clone this repository. This repository does not have a starter project, so create one inside of the cloned repository folder. Regularly commit and push your code as appropriate.
-- [ ] When you are done, create a Pull Request (PR)
-- [ ] To submit the assignment, paste the URL of your branch into the assignment module in Canvas.
+- [x] When you are done, create a Pull Request (PR)
+- [x] To submit the assignment, paste the URL of your branch into the assignment module in Canvas.
 
 You need to create three different classes in your project: `Snack`, `Customer`, and `VendingMachine`. Details for what fields and methods each class needs to contain are below.
 
@@ -94,7 +94,7 @@ Next, you need to instantiate some objects using the classes that you've designe
   - [x] Drink
   - [x] Office
 
-- [ ] Instantiate 5 Snacks
+- [x] Instantiate 5 Snacks
   - [x] In "Food" Vending Machine
     - [x] 36 Chips with a price of $1.75 each
     - [x] 36 Chocolate Bar with a price of $1.00 each
